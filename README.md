@@ -1,3 +1,5 @@
-# Acronym by Precious-Favour Jagun
+# A series of Mini Projects by Precious-Favour Jagun
 
-A simple software that generates acronyms of inputed text.
+AAcronym.c --> A simple software that generates acronyms of inputed text.
+
+Number Guess.c --> A simple game where you give a range and guess the number within that range.
